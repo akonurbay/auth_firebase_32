@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194173261522",
+    "project_id": "fir-32-hw",
+    "storage_bucket": "fir-32-hw.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194173261522:android:71b78c05294cc2fbb4ff0b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_32"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ0SrUAqcvK0XESCowYkHHXfxlZrDZGmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
